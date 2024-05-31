@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SunlightFR
-- 👀 I’m interested in coding websites and games
+- I code websites and apps
 - React, React Native, Next
 
 <!---
