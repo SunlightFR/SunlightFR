@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @SunlightFR
+- Software engineering major
 - I code websites and apps
-- React, React Native, express
+- React, React Native, Nest
+
 
 <!---
 SunlightFR/SunlightFR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
